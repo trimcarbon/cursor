@@ -1,0 +1,21 @@
+{
+	"name": "trimcarbon",
+	"description": "Estimate the CO₂ of general-aviation flying, by aircraft and hours, by fleet or by fuel, with TrimCarbon's figures for about 60 aircraft types.",
+	"version": "1.3.0",
+	"author": {
+		"name": "Raccoon Ventures Inc.",
+		"email": "contact@trimcarbon.com"
+	},
+	"homepage": "https://trimcarbon.com/ai",
+	"repository": "https://github.com/trimcarbon/cursor",
+	"license": "MIT",
+	"keywords": [
+		"aviation",
+		"pilots",
+		"flight-school",
+		"co2",
+		"emissions",
+		"carbon-offsets"
+	],
+	"logo": "logo.png"
+}
